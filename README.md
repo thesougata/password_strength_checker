@@ -32,6 +32,13 @@ It provides a **strength score** and categorizes the password as **Strong, Mediu
 
 ---
 
+## 🔐 Password Strength Checker - Streamlit App
+
+Check your password strength online using this interactive Streamlit app:  
+[Open the App in Browser](https://password-strength-checker25.streamlit.app/)
+
+---
+
 ## How to Run
 
 ### Terminal Version
