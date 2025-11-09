@@ -1,52 +1,40 @@
-# Password Strength Checker
+# 🔐 Password Strength Checker
 
-## Project Overview
-This is a Python mini project that checks the strength of a password entered by the user. The program evaluates the password based on:
+A simple **Python project** that checks the strength of passwords and provides feedback to make them stronger. This app evaluates passwords based on uppercase, lowercase, digits, special characters, and minimum length.  
 
-- Uppercase letters  
-- Lowercase letters  
-- Digits  
-- Special characters  
-- Minimum length of 8 characters  
-
-It provides a **strength score** and categorizes the password as **Strong, Medium, or Weak**, along with suggestions for missing criteria.
+It is deployed as a **live web app using Streamlit**, so you can use it directly in your browser.  
 
 ---
 
-## Features
+## ✅ Features
 
-- Checks for uppercase and lowercase letters  
-- Checks for digits  
-- Checks for special characters  
-- Checks for minimum length (8 characters)  
-- Provides missing requirements clearly  
-- Runs until a strong password is entered  
-- Optional web app version using Streamlit  
-
----
-
-## Technologies Used
-
-- Python 3.x  
-- Streamlit (optional, for web version)  
+- Checks for at least one **uppercase letter**  
+- Checks for at least one **lowercase letter**  
+- Checks for at least one **digit**  
+- Checks for at least one **special character**  
+- Validates **minimum length of 8 characters**  
+- Displays a **score** for password strength (Weak, Medium, Strong)  
+- Provides **suggestions** to improve password  
 
 ---
 
-## 🔐 Password Strength Checker - Streamlit App
+## 🌐 Live App
 
-Check your password strength online using this interactive Streamlit app:  
-[Open the App in Browser](https://password-strength-checker25.streamlit.app/)
+Try the live version of the app here:  
+[Password Strength Checker - Streamlit](https://password-strength-checker25.streamlit.app/)  
 
 ---
 
-## How to Run
+## 🛠 Technologies Used
 
-### Terminal Version
-1. Clone the repository:  
+- Python 3  
+- Streamlit  
+- Git & GitHub  
+
+---
+
+## 🚀 How to Run Locally
+
+### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/password_strength_checker.git
-
-1. Clone this repository:  
-```bash
-git clone https://github.com/yourusername/password_checker.git
-
+git clone https://github.com/thesougata/password_strength_checker.git
